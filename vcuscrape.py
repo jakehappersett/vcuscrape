@@ -33,8 +33,8 @@ br.open('https://ssb.vcu.edu/proddad/bwcklibs.P_StoreTerm')
 br.select_form(nr=0)
 
 # logon 
-br.form['sid']='happersettjw'
-br.form['PIN']='Happ876J'
+br.form['sid']='
+br.form['PIN']='
 br.submit()
 
 # navigate to page
